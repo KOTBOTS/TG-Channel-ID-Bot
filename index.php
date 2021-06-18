@@ -56,7 +56,7 @@ bot ('sendMessage' ,[
 'parse_mode'=>"MarkDown",
 ]);
 /*
-CREDITS:- @BENCHAMXD
-CHANNEL:- @indusbots
+💡Group:- @BX_Support
+CHANNEL:- @BX_Botz
 */
 ?>
