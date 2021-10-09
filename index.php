@@ -56,7 +56,7 @@ bot ('sendMessage' ,[
 'parse_mode'=>"MarkDown",
 ]);
 /*
-💡Group:- @BX_Support
-CHANNEL:- @BX_Botz
+💡Group:- @KOT_REPORS
+CHANNEL:- @KOT_BOTS
 */
 ?>
