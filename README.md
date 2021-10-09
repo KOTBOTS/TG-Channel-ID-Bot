@@ -11,5 +11,5 @@ ADD TOKEN OF YOUR BOT ON LINE 9 IN index.php AND HOST ON FREE HOST SUCH AS 00WEB
 
 FOR ANY HELP COTACT ME [HERE](https://t.me/induschats)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mufazTG/TG-Channel-ID-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KOTBOTS/TG-Channel-ID-Bot)
 
